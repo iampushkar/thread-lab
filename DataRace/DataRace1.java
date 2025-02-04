@@ -1,6 +1,6 @@
 package DataRace;
 
-public class DataRace {
+public class DataRace1 {
     public static void main(String[] args) {
         SharedClass sharedClass = new SharedClass();
 
